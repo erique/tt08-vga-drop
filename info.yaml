@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "VGA Drop (audio/visual demo)"      # Project title
+  title:        "VGA Drop (audio/visual demo) (latched)"      # Project title
   author:       "ReJ aka Renaldas Zioma, eriQue aka Erik Hemming, Matthias Kampa"
   discord:      "rzioma"        # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Tiny 8 part Megademo! TBL^Nesnausk^SonikClique"
